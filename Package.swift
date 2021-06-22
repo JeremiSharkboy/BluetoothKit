@@ -7,7 +7,7 @@ let package = Package(
     name: "BluetoothKit",
     platforms: [
         .iOS(.v10),
-        .macOS(.v10_10),
+        .macOS(.v10_13),
         .tvOS(.v9)
     ],
     products: [
